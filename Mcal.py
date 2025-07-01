@@ -1,10 +1,3 @@
-# arr = [101*12, 62*11, 60*11.50, 60*11, 80*11, 60*11, 63*11, 60*11]
-# sum = 0
-# print(arr)
-# for item in arr:
-#     sum += item
-# print (sum)
-
 # Import required module
 import sys
 
