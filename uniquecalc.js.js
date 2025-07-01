@@ -12,3 +12,5 @@ console.log("Total Amount:",sum);
 //for upad ---->> 
 
 console.log("Final Amount: ",sum);
+
+//accedentelly i named this file two times so this is my mistake..,
